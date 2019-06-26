@@ -5,6 +5,6 @@ HTTP Flood via proxy list
 * referer random
 * bypass caching with no-cache header and random params
 
-Need scripts bypass uam,sucuri,blazingfast 
+
 >>>>>>>>>>>
 Discord: uninstall#9477
