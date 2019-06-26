@@ -1,5 +1,5 @@
 # HTTP-Flood via proxy list with python3 URLLIB
-HTTP Flood with proxy list
+HTTP Flood via proxy list
 * proxy support
 * useragent random
 * referer random
