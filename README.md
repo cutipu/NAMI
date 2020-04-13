@@ -6,7 +6,6 @@ HTTP Flood via proxy list
 * bypass caching with no-cache header and random params
 
 
->>>>>>>>>>> admin hihihi
+
 Discord: uninstall#9477
-![Screenshot](https://i.ibb.co/cQxWhNm/2.png)
-![Screenshot](https://i.ibb.co/nCcYm2D/3.png)
+
