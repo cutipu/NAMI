@@ -8,5 +8,5 @@ HTTP Flood via proxy list
 
 >>>>>>>>>>> admin hihihi
 Discord: uninstall#9477
-![](https://i.ibb.co/cQxWhNm/2.png?raw=true "")
-![](https://i.ibb.co/nCcYm2D/3.png?raw=true "")
+![Screenshot](https://i.ibb.co/cQxWhNm/2.png)
+![Screenshot](https://i.ibb.co/nCcYm2D/3.png)
