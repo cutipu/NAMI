@@ -1,4 +1,4 @@
-Discord: james007#9942
+tele: https://t.me/hisokavn
 # HTTP-Flood via proxy list with python3 URLLIB
 HTTP Flood via proxy list
 * proxy support
