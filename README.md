@@ -1,5 +1,5 @@
 <div align=center>
-<p align="center"><img src="https://https://www.linkpicture.com/q/Nami-designstyle-friday-m_1.png" width="400px" height="100px" alt="ddos"></p>
+<p align="center"><img src="https://www.linkpicture.com/q/Nami-designstyle-friday-m_1.png" width="400px" height="100px" alt="ddos"></p>
  <p>
  <img src="https://img.shields.io/github/stars/cutipu/HTTP-Flood?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/cutipu/HTTP-Flood?color=%239999FF&style=for-the-badge"/> &nbsp;
