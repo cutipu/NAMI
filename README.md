@@ -20,8 +20,8 @@
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
 
-## Menu
-![hasoki](https://www.linkpicture.com/q/nami_1.png)
+## ATTACK
+![hasoki](https://www.linkpicture.com/q/nami-2.png)
 
 
 ## Grouptelegram
