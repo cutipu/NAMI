@@ -25,7 +25,7 @@
 
 
 ## Grouptelegram
-https://t.me/adfhjktewwyjqk
+https://t.me/rebychubx
 
 ## Usage
 ```sh
