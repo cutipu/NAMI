@@ -36,4 +36,5 @@ python ddos.py or python3 ddos.py
 ```sh
  Buy Me a Coffee BTC: 34zoKEUcZ42mKEUc1gB836k9puQ1MiugNr
 ```
+https://hunterx.sellix.io/
 
