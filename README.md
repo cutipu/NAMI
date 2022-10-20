@@ -32,9 +32,3 @@ https://t.me/rebychubx
 python ddos.py or python3 ddos.py
 ```
 
-## Contact Developer
-```sh
- Buy Me a Coffee BTC: 34zoKEUcZ42mKEUc1gB836k9puQ1MiugNr
-```
-https://hunterx.sellix.io/
-
